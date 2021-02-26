@@ -9,4 +9,4 @@ Designed multiple OBUs (Raspberry_Pi_3 Units) to be used as mount on vehicles in
 
 
 
-![](images/vanet-architecture.png)
+![](vanet-architecture.png)
